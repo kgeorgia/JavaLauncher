@@ -1,4 +1,4 @@
-package kgeorgia.school21.AirCraft;
+package kgeorgia.school21.Aircraft;
 
 import kgeorgia.school21.Tower.WeatherTower;
 

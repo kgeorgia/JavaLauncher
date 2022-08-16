@@ -1,4 +1,4 @@
-package kgeorgia.school21.AirCraft;
+package kgeorgia.school21.Aircraft;
 
 import java.util.HashMap;
 import java.util.Map;
